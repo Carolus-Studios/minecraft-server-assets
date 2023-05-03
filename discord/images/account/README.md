@@ -1,7 +1,7 @@
 # Account/Geyser images
 
-These are the image files for the Biome list, meant for the Discord server.
+These are the image files for the Geyser/Console setup, meant for the Discord server.
 
 ## Image links
 
-[ACCOUNT NAME](https://github.com/Carolus-Studios/minecraft-server-assets/raw/main/discord/images/biomes/biomesupdate.jpg)
+[ACCOUNT NAME](https://github.com/Carolus-Studios/minecraft-server-assets/raw/main/discord/images/account/Account.jpg)
